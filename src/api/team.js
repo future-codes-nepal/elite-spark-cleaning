@@ -8,7 +8,7 @@ const Team = [
     {
        Id:'1',
        tImg:timg1,
-       name:'Brubaker Nilka',
+       name:'Alex Morgan',
        title:'Cleaner Leader',     
     },
     {

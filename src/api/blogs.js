@@ -44,7 +44,7 @@ const blogs = [
     },
     {
         id: '3',
-        title: '10 House Cleaners near Los Angeles',
+        title: '10 House Cleaners near Auckland',
         screens: blogImg3,
         description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet autem beatae errodio.',
         author: 'Jenefer Willy',

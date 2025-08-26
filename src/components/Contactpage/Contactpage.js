@@ -20,7 +20,7 @@ const Contactpage = () => {
                                         </div>
                                         <div className="office-info-text">
                                             <h2>Address</h2>
-                                            <p>7 Green Lake Street Crawfordsville, IN 47933</p>
+                                            <p>123 Spark Street, Auckland, New Zealand</p>
                                         </div>
                                     </div>
                                 </div> 
@@ -34,7 +34,7 @@ const Contactpage = () => {
                                         <div className="office-info-text">
                                             <h2>Email Us</h2>
                                             <p>Cleener@gmail.com</p>
-                                            <p>helloyou@gmail.com</p>
+                                            <p>elitespark123demo@gmail.com</p>
                                         </div>
                                     </div>
                                 </div> 
@@ -47,8 +47,8 @@ const Contactpage = () => {
                                         </div>
                                         <div className="office-info-text">
                                             <h2>Call Now</h2>
-                                            <p>+1 800 123 456 789</p>
-                                            <p>+1 800 123 654 987</p>
+                                            <p>+1 64 21 123 4567</p>
+                                            <p>+1 80 123 654 987</p>
                                         </div>
                                     </div>
                                 </div> 
@@ -56,8 +56,7 @@ const Contactpage = () => {
                         </div>
                         <div className="wpo-contact-title">
                             <h2>Have Any Question?</h2>
-                            <p>It is a long established fact that a reader will be distracted
-                                content of a page when looking.</p>
+                            <p>We’re here to help! Reach out to us and our friendly team will get back to you promptly.</p>
                         </div>
                         <div className="wpo-contact-form-area">
                             <ContactForm/>

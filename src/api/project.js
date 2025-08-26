@@ -1,4 +1,4 @@
-import pimg from '../images/projects/img-1.jpg'
+import pimg from '../images/projects/img-1.png'
 import pimg2 from '../images/projects/img-2.jpg'
 import pimg3 from '../images/projects/img-3.jpg'
 import pimg4 from '../images/projects/img-4.jpg'
@@ -15,35 +15,35 @@ const Projects = [
     {
         Id: '1',
         pImg:pimg,
-        subTitle:'Muriddban, USA',
-        title: 'Carpet',
-        description:'We are certified company. We provide best cleaning projects for you and your company Home projects and your Car.',
+        subTitle:'Auckland, New Zealand',
+        title: 'Residential',
+        description:'Tailored cleaning for homes, including bedrooms, living areas, kitchens, and bathrooms.',
         spImg1:sSingleimg1,
         spImg2:sSingleimg2,
     },
     {
         Id: '2',
         pImg:pimg2,
-        subTitle:'Muriddban, USA',
-        title: 'Seasonal',
-        description:'We are certified company. We provide best cleaning projects for you and your company Home projects and your Car.',
+        subTitle:'Auckland, New Zealand',
+        title: 'Commercial & Apartments',
+        description:'Comprehensive cleaning solutions for offices, coworking spaces, and commercial facilities.',
         spImg1:sSingleimg1,
         spImg2:sSingleimg2,
     },
     {
         Id: '3',
         pImg:pimg3,
-        subTitle:'Muriddban, USA',
-        title: 'Express',
-        description:'We are certified company. We provide best cleaning projects for you and your company Home projects and your Car.',
+        subTitle:'Auckland, New Zealand',
+        title: 'Seasonal',
+        description:'ntensive cleaning for every corner, perfect for spring, fall, or special occasions.tES',
         spImg1:sSingleimg1,
         spImg2:sSingleimg2,
     },
     {
         Id: '4',
         pImg:pimg4,
-        subTitle:'Muriddban, USA',
-        title: 'Kitchen',
+        subTitle:'Auckland, New Zealand',
+        title: 'Event Cleanup',
         description:'We are certified company. We provide best cleaning projects for you and your company Home projects and your Car.',
         spImg1:sSingleimg1,
         spImg2:sSingleimg2,
@@ -51,9 +51,9 @@ const Projects = [
     {
         Id: '5',
         pImg:pimg5,
-        subTitle:'Muriddban, USA',
-        title: 'Bathroom',
-        description:'We are certified company. We provide best cleaning projects for you and your company Home projects and your Car.',
+        subTitle:'Auckland, New Zealand',
+        title: 'Move-In / Move-Out Cleaning',
+        description:'Thorough cleaning during relocation to ensure spotless spaces.',
         spImg1:sSingleimg1,
         spImg2:sSingleimg2,
     },

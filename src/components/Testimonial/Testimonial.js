@@ -15,21 +15,21 @@ const settings = {
 };
 
 const testimonial = [
-    {
-        Des: "There are many variations of passages the majority have suffered alteration some form injected humour randomise words which don't look even slightly believable are going use a passage of need to be sure.",
-        Title: 'Robert William',
-        Sub: "CEO & Founder",
-    },
-    {
-        Des: "There are many variations of passages the majority have suffered alteration some form injected humour randomise words which don't look even slightly believable are going use a passage of need to be sure.",
-        Title: 'Ken Williamson',
-        Sub: "CEO & Founder",
-    },
-    {
-        Des: "There are many variations of passages the majority have suffered alteration some form injected humour randomise words which don't look even slightly believable are going use a passage of need to be sure.",
-        Title: 'David Miller',
-        Sub: "CEO & Founder",
-    }
+   {
+    Des: "Wow! I am beyond impressed with Elite Spark. This was my first time using a professional cleaning service for my home, and the results were flawless. Every corner sparkled, and the team was friendly and efficient. I will definitely be booking again!",
+    Title: 'Sydney Sweeny.',
+    Sub: "Homeowner",
+},
+{
+    Des: "Elite Spark exceeded my expectations! They did an amazing job cleaning our office. The space feels fresh, organized, and spotless. Their attention to detail is unmatched—I highly recommend them for both home and commercial cleaning.",
+    Title: 'Michael R.',
+    Sub: "Office Manager",
+},
+{
+    Des: "I can’t believe the transformation! Elite Spark made our kitchen and bathrooms shine like new. Professional, punctual, and thorough. We’re thrilled with the results and will absolutely call them again.",
+    Title: 'Sophie T.',
+    Sub: "Homeowner",
+},
 ]
 
 const Testimonial = () => {
@@ -39,9 +39,8 @@ const Testimonial = () => {
                 <div className="row align-items-center justify-content-center">
                     <div className="col-lg-5">
                         <div className="wpo-section-title">
-                            <h2>What Clients Say?</h2>
-                            <p>It was popularised in the with the release desktop
-                                publishing software like versions .</p>
+                            <h2>Hear From Our Clients</h2>
+                            <p> Our clients’ satisfaction is our top priority. See what they have to say about their experiences with Elite Spark’s professional cleaning team—homes and offices transformed with care, precision, and attention to detail.</p>
                         </div>
                     </div>
                 </div>

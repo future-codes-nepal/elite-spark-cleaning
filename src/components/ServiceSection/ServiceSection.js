@@ -17,13 +17,21 @@ const ServiceSectionS2 = (props) => {
         <section className="wpo-service-section section-padding">
             <div className="container">
                 <div className="row align-items-center justify-content-between">
-                    <div className="col-lg-5">
-                        <div className="wpo-section-title-s2">
-                            <h2>What We Do?</h2>
-                            <p>It was popularised in the with the release desktop
-                                publishing software like versions .</p>
-                        </div>
-                    </div>
+                   <div className="col-lg-5">
+    <div className="wpo-section-title-s2">
+        <h2>What We Do?</h2>
+        <p><b>Your Trusted Cleaning Partners</b></p>
+        <p>
+            Elite Spark offers a wide range of cleaning services designed to suit both residential and commercial spaces. Our services include:
+        </p>
+        <ul>
+            <li><b>Residential Cleaning:</b> Keep your home spotless with deep cleaning, regular maintenance, and eco-friendly solutions.</li>
+            <li><b>Commercial Cleaning:</b> Impress clients and employees with hygienic, well-maintained offices and workspaces.</li>
+            <li><b>Specialized Services:</b> From carpet and upholstery cleaning to post-construction and event cleanup, we handle every mess efficiently.</li>
+        </ul>
+    </div>
+</div>
+
                     <div className="col-lg-7">
                         <div className="wpo-service-tabs">
                             <Nav tabs>

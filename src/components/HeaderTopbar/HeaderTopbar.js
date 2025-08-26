@@ -10,7 +10,7 @@ const HeaderTopbar = () => {
                     <div className="col col-lg-7 col-md-5 col-sm-12 col-12">
                         <div className="contact-intro">
                             <ul>
-                                <li><i className="fi ti-location-pin"></i>New York, United States, NY, 10005</li>
+                                <li><i className="fi ti-location-pin"></i>Auckland, New Zealand, AUK, 1010</li>
                             </ul>
                         </div>
                     </div>

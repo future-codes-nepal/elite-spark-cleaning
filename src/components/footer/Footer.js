@@ -22,11 +22,7 @@ const Footer = (props) => {
                                 <div className="logo widget-title">
                                     <img src={Logo} alt="blog"/>
                                 </div>
-                                <p>Many desktop publishing packages
-                                    now use Lorem Ipsum their default
-                                    a search for uncover many.</p>
-                                <p>Many desktop publishing packages
-                                    now use uncover many.</p>
+                                <p>Professional cleaning services for homes and offices across New Zealand. Reliable, thorough, and trusted by countless clients.</p>
 
                             </div>
                         </div>
@@ -51,8 +47,7 @@ const Footer = (props) => {
                                 <div className="widget-title">
                                     <h3>Newsletter</h3>
                                 </div>
-                                <p>Now use Lorem Ipsum their default
-                                    a search for uncover many.</p>
+                                <p>Subscribe to get cleaning tips, updates, and exclusive offers from Elite Spark.</p>
                                 <form onSubmit={SubmitHandler}>
                                     <input type="email" placeholder="support@gmail.com" required/>
                                     <button type="submit">Send Now <i className="ti-arrow-right"></i></button>

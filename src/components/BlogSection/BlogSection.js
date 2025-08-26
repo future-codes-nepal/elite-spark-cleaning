@@ -65,8 +65,8 @@ const BlogSection = () => {
                     <div className="col-lg-6">
                         <div className="wpo-section-title-s2">
                             <h2>From News Feeds</h2>
-                            <p>It was popularised in the with the release desktop
-                                publishing software like versions .</p>
+                            <p>Discover the latest updates from Elite Spark. Get expert cleaning tips, home and office maintenance advice, and news about our services to keep your spaces spotless and well-maintained.
+Stay ahead with insights, trends, and practical tips from our team of cleaning professionals.</p>
                         </div>
                     </div>
                 </div>

@@ -18,7 +18,14 @@ const Hero = () => {
                                 <h2>Need Cleaning Service?</h2>
                             </div>
                             <div className="wpo-hero-subtitle">
-                                <p>We are certified company. We provide best cleaning services for you & your company .
+                                <p>We’re a certified local team, delivering top-quality cleaning for homes and businesses.
+                                </p>
+                                <p>
+                                    <b>
+                                        <i>
+                                            “Clean spaces, happy faces—guaranteed.”
+                                        </i>
+                                    </b>
                                 </p>
                             </div>
                             <div className="btns">
