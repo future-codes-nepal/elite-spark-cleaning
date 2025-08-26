@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import HeaderTopbar from '../HeaderTopbar/HeaderTopbar'
 import MobileMenu from '../MobileMenu/MobileMenu'
-import Logo from '../../images/logo.svg'
+import Logo from '../../images/elite-sparklogo.png'
 
 
 const Header = (props) => {
