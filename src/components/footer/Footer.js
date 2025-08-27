@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Logo from '../../images/footer-logo.svg'
+import Logo from '../../images/elite-sparklogo.png'
 import Services from '../../api/service';
 
 

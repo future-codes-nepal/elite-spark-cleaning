@@ -35,8 +35,10 @@ const ServiceSinglePage =(props) => {
                                     <div className="wpo-service-single-content-des">
                                         <h2>{`${serviceDetails.sTitle} Cleaning `}</h2>
                                         <p>{serviceDetails.description}</p>
-                                        <p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise.</p>
-                                        <div className="wpo-service-single-sub-img">
+                                        <p>
+                                            Moving out is never easy, but leaving behind a spotless home can make all the difference. At Elite Spark, we specialize in professional end-of-lease cleaning designed to meet the highest property management and landlord standards. Our expert team ensures that every corner is thoroughly cleaned, helping tenants secure their bond return and landlords present their property in its best light.
+                                        </p>
+                                         <div className="wpo-service-single-sub-img">
                                             <ul>
                                                 <li><img src={serviceDetails.ssImg1} alt="" /></li>
                                                 <li><img src={serviceDetails.ssImg2} alt="" /></li>
